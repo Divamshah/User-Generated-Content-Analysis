@@ -52,8 +52,5 @@ quality goes from 4 to 5.
 # Q2 What features do consumers value most? 
 # Q3 Is investing in features where users rank Panasonic lower than their competitors the best strategy? If not, what would you recommend?
 # Q4 Which feature Panasonic should consider investing in first?
-#Q5 We may also want to use Price diff as an independent (exploratory)
-variable to account for the effect of competition among manufacturers. Price diff is the difference
-between the focal product's price and the average price for that segment, where segment is defined
-by the combination of product aspects (Screen Size, Pixel, and Motion Rate). You can calculate the
-average price using pivot table.
+# Q5 We may also want to use Price diff as an independent (exploratory)
+
